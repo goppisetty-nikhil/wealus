@@ -7,7 +7,7 @@ on:
     branches: [ "main" ]
 
 jobs:
-  laravel-tests:
+  nikhil-tests:
 
     runs-on: ubuntu-latest
 
